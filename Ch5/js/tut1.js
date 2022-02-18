@@ -42,7 +42,7 @@ console.log(`num1 at end of program is: ${num1}`);
 let str1 = "ABC";
 let str2 = "abc"
 let str3 = "Abc"
-let str4 = " ABC";
+let str4 = "ABC";
 console.log(str1 ==str2);
 console.log(str1 ==str3);
 console.log(str1 ==str4);
