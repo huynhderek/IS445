@@ -39,3 +39,13 @@ console.log(addNumbers3(num1, 5));
 
 console.log(`num1 at end of program is: ${num1}`);
 
+let str1 = "ABC";
+let str2 = "abc"
+let str3 = "Abc"
+let str4 = " ABC";
+console.log(str1 ==str2);
+console.log(str1 ==str3);
+console.log(str1 ==str4);
+console.log(str2 ==str3);
+console.log(str2 ==str4);
+console.log(str3 ==str4);
