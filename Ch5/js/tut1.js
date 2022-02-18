@@ -39,5 +39,3 @@ console.log(addNumbers3(num1, 5));
 
 console.log(`num1 at end of program is: ${num1}`);
 
-const scores = [8,10,7,10,9,8,10];
-console.log("Array length is ", scores.length);
