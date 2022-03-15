@@ -1,0 +1,23 @@
+* {
+    font-family: 'Calibri';
+}
+  
+td{
+  border:1px solid black;
+  text-align: center;
+}
+.four{
+  background-color: skyblue;
+}
+
+table, tr, td{
+  border: solid;
+
+}
+td{
+  text-align: center;
+  width: 30px;
+}
+.bgBlue{
+  background-color: lightblue;
+}

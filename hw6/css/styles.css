@@ -1,0 +1,11 @@
+* {
+    font-family: 'Calibri';
+}
+  
+td{
+  border:1px solid black;
+  text-align: center;
+}
+.four{
+  background-color: skyblue;
+}
